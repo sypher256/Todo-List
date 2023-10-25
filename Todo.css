@@ -1,0 +1,35 @@
+.inputArea{
+    border-radius: 6px;
+    height: 25px;
+}
+.date-time-input{
+    border-radius: 6px;
+    height: 25px;
+}
+.delete-button{
+    color: rgb(38, 237, 3);
+    background-color: red;
+    font-family: rod;
+    border: solid;
+    width: 50px;
+    border-radius: 5px;
+    border-width: 0.2px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-bottom: 4px;
+}
+.todo-p{
+    font-size: 25px;
+    color: rgb(42, 0, 210);
+
+}
+.add{
+    background-color: green;
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    color: black;
+}
