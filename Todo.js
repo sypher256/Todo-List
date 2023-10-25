@@ -1,9 +1,9 @@
-/*let listTodo = [{
+let listTodo = [{
     name: 'washe dihes',
     duedate: '2022-22-22'
 }];
-*/
-let listTodo = []; //JSON.parse(localStorage.getItem('listTodo'));
+
+//let listTodo = JSON.parse(localStorage.getItem('listTodo'));
 console.log(listTodo);
 
 
