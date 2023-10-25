@@ -5,7 +5,7 @@ let listTodo = [{
 
 
 //let listTodo = JSON.parse(localStorage.getItem('listTodo'));
-console.log(listTodo);
+//console.log(listTodo);
 
 
 TodoLoop();
