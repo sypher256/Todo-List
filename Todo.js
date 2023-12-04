@@ -11,7 +11,7 @@ let listTodo = [{
 TodoLoop();
 function TodoLoop(){
     let todoListHtml = '';
-    //localStorage.setItem('listTodo', JSON.stringify(listTodo))
+    localStorage.setItem('listTodo', JSON.stringify(listTodo))
 
     for(let i = 0; i<listTodo.length; i++){
     const TodoObject = listTodo[i];
